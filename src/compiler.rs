@@ -50,7 +50,7 @@ const turtle = {{
 </script>
 </body>
 </html>
-        "###, self.anweisung())
+        "###, self.anweisungen())
     }
 
     fn anweisungen(&mut self) -> String {
